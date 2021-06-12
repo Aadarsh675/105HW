@@ -1,0 +1,23 @@
+p {
+    background-color: blue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+body {
+    background-color: orchid;
+    color: white;
+}
+p, label {
+    color: white;
+}
+#camera, #picture {
+    height: 300px;
+    width: 300px;
+    border: 2px dashed black;
+}
+#capture, #identify{
+    font-size: 22px;
+    margin-top: 10px;
+}
